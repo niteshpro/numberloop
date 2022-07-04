@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\obj\Debug\net6.0\numberloop.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\obj\Debug\net6.0\numberloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\obj\Debug\net6.0\numberloop.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\obj\Debug\net6.0\numberloop.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\obj\Debug\net6.0\numberloop.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\bin\Debug\net6.0\numberloop.exe
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\bin\Debug\net6.0\numberloop.deps.json
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\bin\Debug\net6.0\numberloop.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\bin\Debug\net6.0\numberloop.dll
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\bin\Debug\net6.0\numberloop.pdb
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\obj\Debug\net6.0\numberloop.dll
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\obj\Debug\net6.0\refint\numberloop.dll
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\obj\Debug\net6.0\numberloop.pdb
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\obj\Debug\net6.0\numberloop.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\numberloop\numberloop\obj\Debug\net6.0\ref\numberloop.dll
